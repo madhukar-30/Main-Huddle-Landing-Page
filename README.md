@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://6453961de9c1a00f2cc7d320--endearing-taffy-8639ca.netlify.app/]
-- Solution URL: [https://github.com/madhukar-30/Main-Huddle-Landing-Page.git]
+- Live Site URL: [Live Site](https://6453961de9c1a00f2cc7d320--endearing-taffy-8639ca.netlify.app/)
+- Solution URL: [Solution](https://github.com/madhukar-30/Main-Huddle-Landing-Page.git)
 
 ## My process
 
