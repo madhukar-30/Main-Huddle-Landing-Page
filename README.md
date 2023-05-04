@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add solution URL here](https://6453961de9c1a00f2cc7d320--endearing-taffy-8639ca.netlify.app/)
-- Solution URL: [Add live site URL here](https://github.com/madhukar-30/Main-Huddle-Landing-Page.git)
+- Live Site URL: [https://6453961de9c1a00f2cc7d320--endearing-taffy-8639ca.netlify.app/]
+- Solution URL: [https://github.com/madhukar-30/Main-Huddle-Landing-Page.git]
 
 ## My process
 
@@ -53,4 +53,4 @@ Users should be able to:
 - [Svg image color changer](https://deeditor.com/) - This helped me to change the color of huddle logo for the footer.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/madhukar-30)
+- Frontend Mentor - [@madhukar-30](https://www.frontendmentor.io/profile/madhukar-30)
