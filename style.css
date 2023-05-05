@@ -278,41 +278,9 @@ align-items: flex-start;
 
 
 /* //////////////////////////////////////////////////////////////////////////////////////////// */
- @media screen and (max-width:350px){
-    .logo-container{
-        flex-direction: column;
-        justify-content: space-around;
-        align-items: center;
-        padding:0;
-    }
-    .logo-container img{
-        margin-bottom: 1rem;
-    }
-    .get-started{
-      
-       max-width:80vw;
-      
-    
-    }
-    .contact-details .contact-box{
-        display: flex;
-        flex-direction: column;
-        justify-content:space-between;
-        align-items: center;
-        margin-bottom: 1.5rem;
-       
-        
-        }
-        .contact-details p{
-            text-align: center;
-        }
-        footer ul li{
-            text-align: center;
-        }
-        .rights{
-            text-align: center;
-        }
- }
+
+
+
 
 @media screen and (max-width:900px) {
  
@@ -332,7 +300,7 @@ align-items: flex-start;
   
   }
   .logo-container img{
-     height:25px;
+     height:30px;
   }
   .show-up{
     display: flex;
@@ -419,5 +387,67 @@ align-items: flex-start;
         }
         .rights{
             justify-content: center;
+        }
+ }
+ @media screen and (max-width:600px){
+   .logo-container img{
+    height:20px;
+   }
+   a.btn{
+    padding:0.5rem 1rem;
+    font-size: small;
+   }
+   .get-started{
+      
+    max-width:80vw;
+   
+}
+.box{
+    max-width:95%;
+    margin:auto;
+
+    display: flex;
+    justify-content: space-between;
+    padding:2rem 1rem;
+    margin-bottom:1.5rem;
+    box-shadow: 0.5px 0.5px 4px  rgba(102, 101, 101, 0.486);
+    border-radius:0.5rem;
+}
+ }
+ @media screen and (max-width:300px){
+    .logo-container{
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        padding:0;
+    }
+    .logo-container img{
+        
+        margin-bottom: 1rem;
+    }
+ 
+    .contact-details .contact-box{
+        display: flex;
+        flex-direction: column;
+        justify-content:space-between;
+        align-items: center;
+        margin-bottom: 1.5rem;
+       
+        
+        }
+        
+        .contact-details p{
+            text-align: center;
+        }
+        footer ul li{
+            text-align: center;
+        }
+        .footer-logo{
+       
+            max-width:200px;
+        }
+       
+        .rights{
+            text-align: center;
         }
  }
